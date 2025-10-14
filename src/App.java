@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         Scanner ler = new Scanner(System.in);
-        
+               
         Double vCompra;
 
         System.out.println("Digite o valor da compra:"); 
